@@ -49,7 +49,7 @@
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="icons.html">
+              <a class="nav-link" href="/books">
                 <i class="ni ni-planet text-orange"></i>
                 <span class="nav-link-text">Books</span>
               </a>
